@@ -29,7 +29,6 @@ class Solution {
             }
         }
     }
-
      static void markcol(int[][] matrix, int j){
         for(int i = 0; i < matrix.length; i++){
             if(matrix[i][j] != 0){
